@@ -1,4 +1,5 @@
 # API CI Demo – QA Automation
+[![CI Status](https://github.com/ximera758/api-ci-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/ximera758/api-ci-demo/actions/workflows/ci.yml)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![PyTest](https://img.shields.io/badge/PyTest-Testing-orange)](https://docs.pytest.org/)
